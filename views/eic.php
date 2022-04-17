@@ -109,6 +109,10 @@
             <div class="icon-box" data-aos="fade-up" data-aos-delay="200">
               <h4 class="title"><a href="#">Peserta EIC 2022</a></h4>
               <p class="description">Nama-nama tim dibawah ini merupakan peserta EIC  yang telah melakukan regristrasi melalui panitia dan telah dikonfirmasi. Apabila ada tim yang belum tercantum namanya dapat menghubungi panitia.</p>
+              <br>
+              <a href="https://bit.ly/datapendaftarEIC2002" target="_blank" class="btn btn-eic">
+                https://bit.ly/datapendaftarEIC2002
+              </a>
             </div>
           </div>
 

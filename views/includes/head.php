@@ -38,11 +38,15 @@
   <style type="text/css">
     .pointer:hover {cursor: pointer}
     .no-border {border: 0 !important;}
+    .btn {
+      right: 15px;
+      bottom: 15px;
+      background: #3498db;
+      height: 40px;
+      color: #fff;
+      border:  1px solid #fff;
+      border-radius: 4px;
+      transition: all 0.4s;
+    }
+    .btn-eic:hover{background-color: #fff; color: #3498db}
   </style>
-
-  <!-- =======================================================
-  * Template Name: Vesperr - v4.7.0
-  * Template URL: https://bootstrapmade.com/vesperr-free-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
