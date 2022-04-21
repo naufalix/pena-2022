@@ -212,8 +212,8 @@
       setHeight();
       function eic(){
         Swal.fire({
-          title: "PENDAFTARAN EIC RESMI TELAH DITUTUP",
-          text: "TERIMA KASIH ATAS ANTUSIAS KALIAN DAN TUNGGU KAMI DI AGENDA BERIKUTNYA",
+          title: "Selamat Kepada Para Grand Finalis",
+          text: "Kami Tunggu di Surabaya!",
           iconHtml: "<img src='assets/img/hero-img.png' style='width:100px'>",
           customClass: {
             icon: 'no-border'

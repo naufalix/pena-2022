@@ -110,8 +110,8 @@
               <h4 class="title"><a href="#">Peserta EIC 2022</a></h4>
               <p class="description">Nama-nama tim dibawah ini merupakan peserta EIC  yang telah melakukan regristrasi melalui panitia dan telah dikonfirmasi. Apabila ada tim yang belum tercantum namanya dapat menghubungi panitia.</p>
               <br>
-              <a href="https://bit.ly/datapendaftarEIC2002" target="_blank" class="btn btn-eic">
-                https://bit.ly/datapendaftarEIC2002
+              <a href="https://bit.ly/DataPendaftarEIC2022" target="_blank" class="btn btn-eic">
+                https://bit.ly/DataPendaftarEIC2022
               </a>
             </div>
           </div>
@@ -119,7 +119,11 @@
           <div class="mx-auto col-md-5 d-flex align-items-stretch mb-5 mb-lg-0">
             <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
               <h4 class="title"><a href="#">Finalis EIC 2022</a></h4>
-              <p class="description">Berikan karya terbaikmu agar nama tim mu ada disini!</p>
+              <p class="description">Selamat Kepada Para Grand Finalis. Berikan Karya Terbaikmu Untuk Batlle di Surabaya</p>
+              <br>
+              <a href="http://bit.ly/GRANDFINALISEIC2022" target="_blank" class="btn btn-eic">
+                http://bit.ly/GRANDFINALISEIC2022
+              </a>
             </div>
           </div>
 
