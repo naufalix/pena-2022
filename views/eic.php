@@ -147,4 +147,6 @@
 
       </div>
     </section>
+
+    <?php include("views/components/sponsor.php")?>
     

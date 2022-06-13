@@ -204,6 +204,8 @@
       </div>
     </section><!-- End F.A.Q Section -->
 
+    <?php include("views/components/sponsor.php")?>
+
     <script type="text/javascript">
       function setHeight(){
         var width = document.getElementById('vy').clientWidth;
