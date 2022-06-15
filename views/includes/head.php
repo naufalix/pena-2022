@@ -49,4 +49,7 @@
       transition: all 0.4s;
     }
     .btn-eic:hover{background-color: #fff; color: #3498db}
+    @media (max-width: 768px) { .img-medpart {flex:0 0 auto;width:10% !important} }
+    .img-medpart {flex:0 0 auto;width:7.5% }
+    
   </style>
