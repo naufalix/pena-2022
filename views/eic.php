@@ -127,6 +127,17 @@
             </div>
           </div>
 
+          <div class="mx-auto col-md-5 d-flex align-items-stretch mb-5 mb-lg-0 mt-lg-5">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+              <h4 class="title"><a href="#">Peraih Juara EIC PENA 2022</a></h4>
+              <p class="description">Selamat Kepada Para Juara Yang Berhasil Membuktikan Karya Terbaik</p>
+              <br>
+              <a href="juara" class="btn btn-eic">
+                Klik disini
+              </a>
+            </div>
+          </div>
+
         </div>
 
       </div>
@@ -147,6 +158,31 @@
 
       </div>
     </section>
+
+    <!-- ======= Team Section ======= -->
+    <section id="team2" class="team">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>Dokumentasi</h2>
+        </div>
+
+        <div class="row text-center">
+          <?php
+            for($i=1; $i<=65; $i++){            
+          ?>
+          <div class="col-lg-2 col-md-3 col-6 d-flex align-items-stretch">
+            <div class="member" data-aos="fade-up" data-aos-delay="100">
+              <div class="member-img">
+                <img src="assets/img/dokumentasi/eic/<?= $i ?>.JPG" class="img-fluid" alt="">
+              </div>
+            </div>
+          </div>
+          <?php } ?>
+        </div>
+
+      </div>
+    </section><!-- End Team Section -->
 
     <?php include("views/components/sponsor.php")?>
     

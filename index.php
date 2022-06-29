@@ -6,7 +6,7 @@
     $page = $_GET["page"];
     if  ($page=="logout") {header("Location:logout.php");}
     $user_page = array(
-      "about","eic","default","home","sample","semnas"
+      "about","eic","default","home","juara","sample","semnas"
     );
     if  (in_array($page, $user_page)) { $page=$page; }
     else { $page="404"; }
