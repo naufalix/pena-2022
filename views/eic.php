@@ -138,6 +138,17 @@
             </div>
           </div>
 
+          <div class="mx-auto col-md-5 d-flex align-items-stretch mb-5 mb-lg-0 mt-lg-5">
+            <div class="icon-box" data-aos="fade-up" data-aos-delay="300">
+              <h4 class="title"><a href="#">Peraih Sertifikat EIC PENA 2022</a></h4>
+              <p class="description">Selamat Kepada Para Juara Yang Berhasil Membuktikan Karya Terbaik</p>
+              <br>
+              <a href="https://drive.google.com/drive/folders/1qIL-f6sr9f-_3GVdjcWd2xRZ5wtX5QbA" target="_blank" class="btn btn-eic">
+                Klik disini
+              </a>
+            </div>
+          </div>
+
         </div>
 
       </div>
@@ -171,7 +182,7 @@
           <?php
             for($i=1; $i<=65; $i++){            
           ?>
-          <div class="col-lg-2 col-md-3 col-6 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 col-6 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="assets/img/dokumentasi/eic/<?= $i ?>.JPG" class="img-fluid" alt="">

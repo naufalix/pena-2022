@@ -225,5 +225,5 @@
         //   window.location = "eic";
         // });
       }
-      eic()
+      //eic()
     </script>

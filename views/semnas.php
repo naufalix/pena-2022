@@ -105,7 +105,7 @@
           <?php
             for($i=1; $i<=6; $i++){            
           ?>
-          <div class="col-lg-2 col-md-3 d-flex align-items-stretch">
+          <div class="col-lg-3 col-md-4 d-flex align-items-stretch">
             <div class="member" data-aos="fade-up" data-aos-delay="100">
               <div class="member-img">
                 <img src="assets/img/dokumentasi/semnas/<?= $i ?>.png" class="img-fluid" alt="">
